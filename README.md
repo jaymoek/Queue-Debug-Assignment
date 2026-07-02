@@ -2,9 +2,9 @@
 
 ## Student Information
 
-**Name:** Michael Gisiora
+**Name:** James Wandika
 
-**Registration Number:** BSE-05-0078/2025
+**Registration Number:** BSE-05-0086/2025
 
 **Course:** Bachelor  of Software Engineering
 
