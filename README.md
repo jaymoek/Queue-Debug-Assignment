@@ -2,11 +2,11 @@
 
 ## Student Information
 
-**Name:** James Wandika
+**Name:** MICHAEL GISIORA
 
-**Registration Number:** BSE-05-0086/2025
+**Registration Number:** BSE-05-0078/2025
 
-**Course:** Bachelor  of Software Engineering
+**Course:** BSE
 
 ## Objective
 
@@ -16,7 +16,7 @@ The objective of this assignment is to debug a linear queue implementation writt
 
 * `queue.c` - Source code
 * `DEBUG_REPORT.md` - Debugging report
-* `README.md` - Project overview
+* `README.md` - Project overviewgit 
 
 ## How to Compile
 
