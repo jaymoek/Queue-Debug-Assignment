@@ -2,11 +2,11 @@
 
 ## Student Information
 
-**Name:** JAMES WANDIKA
+**Name:** Michael Gisiora
 
-**Registration Number:** BSE-05-0086/2025
+**Registration Number:** BSE-05-0078/2025
 
-**Course:** BSE
+**Course:** Bachelor  of Software Engineering
 
 ## Objective
 
